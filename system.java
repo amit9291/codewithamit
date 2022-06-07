@@ -15,7 +15,7 @@ sb.delete(1, 4);
 System.out.println(sb.capacity());
 sb.append(" Java is an Island");
 System.out.println(sb);
-sb.append("git bash");
+sb.append(" ,git bash");
 System.out.println(sb);
 System.out.println(sb.capacity());
 
