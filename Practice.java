@@ -11,6 +11,6 @@ int x =scan.nextInt();
 if(x >18){
 System.out.println("You are welcome");
 }else{   
-System.out.println("you are not welcome");
+System.out.println("you are not welcome to Club");
 }
     }}}

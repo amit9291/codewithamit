@@ -18,5 +18,6 @@ System.out.println(sb);
 sb.append(" ,git bash");
 System.out.println(sb);
 System.out.println(sb.capacity());
+System.out.println("new commit and pushing");
 
 }}
